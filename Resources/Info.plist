@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleName</key><string>常亮</string>
+    <key>CFBundleDisplayName</key><string>常亮</string>
+    <key>CFBundleDevelopmentRegion</key><string>zh-Hans</string>
+    <key>CFBundleIdentifier</key><string>local.changliang.keepawake</string>
+    <key>CFBundleExecutable</key><string>KeepAwake</string>
+    <key>CFBundleIconFile</key><string>Cup</string>
+    <key>CFBundleInfoDictionaryVersion</key><string>6.0</string>
+    <key>CFBundlePackageType</key><string>APPL</string>
+    <key>CFBundleVersion</key><string>1</string>
+    <key>CFBundleShortVersionString</key><string>1.0</string>
+    <key>LSMinimumSystemVersion</key><string>13.0</string>
+    <key>LSUIElement</key><true/>
+    <key>NSAccessibilityUsageDescription</key><string>常亮在您指定的间隔轻移鼠标，以避免闲置锁屏。</string>
+</dict>
+</plist>
